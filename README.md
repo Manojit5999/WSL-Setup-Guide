@@ -140,8 +140,3 @@ This repository provides a comprehensive guide to setting up Windows Subsystem f
    bash scripts/wsl-setup.sh
    ```
 
-## License
-[MIT](LICENSE)
-```
-
-Let me know if you want me to create files for this structure!
